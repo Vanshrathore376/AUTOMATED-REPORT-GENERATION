@@ -70,4 +70,4 @@ Incorporate real-time charts via matplotlib and save them directly to the PDF
 Schedule automatic report generation using a cron job or a task scheduler
 
 
-Output::
+Output::![Image](https://github.com/user-attachments/assets/2369fa5a-931b-4481-a617-c3cc6f59eb47)
